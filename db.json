@@ -1,5 +1,5 @@
 {
-	posts:[
+	"posts":[
 		{ "autorid":  1 , "fecha": 1558129792235, "id": 1, "titulo": "Primer Post ", "detalle": "Este primer post permite evaluar la capacidad del desarrollador para realizar llamadas a una api" },
 		{ "autorid": 2 , "fecha": 1558129792235, "id": 2, "titulo": "Segundo Post ", "detalle": "Mas detalle de como se comporta la Api" },
 		{ "autorid":  3 , "fecha": 1558129792235, "id": 3, "titulo": "Tercer Post ", "detalle": "Es un detalle mas de si se deberia contemplar algo mas" }
@@ -8,7 +8,7 @@
 		{ "autorid":  3 , "fecha": 1558129792235, "id": 6, "titulo": "Kinesiologia", "detalle": "Tras años de estar practicando la tan larga carrera de kinesiologia Natalia decidio dar el paso descisivo, Se colocaria su propio consultorio" }
 
   ],
-	autores:[
+	"autores":[
 		{ "nombre": "Ramiro", "apellido": "Videla", "fechaDeCreacion": 1558129792235, "id": 1 },
 		{ "nombre": "Andres", "apellido": "Velasco", "fechaDeCreacion": 1557129792235, "id": 2 },
 		{ "nombre": "Natalia", "apellido": "Golzalez", "fechaDeCreacion": 1558129792235, "id": 3 }
