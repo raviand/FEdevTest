@@ -10,7 +10,7 @@
   ],
 	"autores":[
 		{ "nombre": "Ramiro", "apellido": "Videla", "fechaDeCreacion": 1558129792235, "id": 1 },
-		{ "nombre": "Andres", "apellido": "Velasco", "fechaDeCreacion": 1557129792235, "id": 2 },
-		{ "nombre": "Natalia", "apellido": "Golzalez", "fechaDeCreacion": 1558129792235, "id": 3 }
+		{ "nombre": "Andres", "apellido": "Velasco", "fechaDeCreacion": 1557129792235, "id": 2 , "detalle":"Durante años este autor dedico su vida crear los mas asombrosos cuentos de ciencia ficcion que se pudieran imaginar. Con una trayectoria inigualable este personage de la literatura moderna nos deleita con sus asombrosos posteos"},
+		{ "nombre": "Natalia", "apellido": "Golzalez", "fechaDeCreacion": 1558129792235, "id": 3, "detalle":"Esta profesional de la salud mantiene una constante rutina en publicacion en este sitio el cual le debe su increible compromiso." }
 	]
 }
